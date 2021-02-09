@@ -1,0 +1,19 @@
+{
+  "name": "ws20-devops-calc-subtraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subtraction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Groneberg/ws20-devops-calc-subtraction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Groneberg/ws20-devops-calc-subtraction/issues"
+  },
+  "homepage": "https://github.com/Groneberg/ws20-devops-calc-subtraction#readme"
+}
